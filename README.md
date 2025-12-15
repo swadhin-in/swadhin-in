@@ -1,6 +1,6 @@
 <div align="center">
   
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40&height=230&section=header&text=Swadhin%20Ghosh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20SuperX%20%F0%9F%9A%80&descAlignY=60&descSize=25" alt="Header Animation" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40&height=230&section=header&text=Swadhin%20Ghosh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20SuperX%20%F0%9F%9A%80&descAlignY=60&descSize=25" alt="Header Animation" width="100%"/>
 
 
   <a href="https://git.io/typing-svg">
