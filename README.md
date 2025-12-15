@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://github.com/swadhin-in">
-      <img src="https://img.shields.io/badge/Check_My_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Badge"/>
+      <img src="superx-logo.png" alt="GitHub Badge"/>
     </a>
   </p>
 
