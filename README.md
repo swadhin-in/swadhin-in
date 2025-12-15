@@ -57,7 +57,8 @@
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swadhin-in&theme=dark" alt="Repos per Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swadhin-in&theme=dark" alt="Most Commit Language" />
-  </p><div align="center">
+  </p>
+  <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swadhin-in&theme=dark" alt="swadhin-in's GitHub contribution graph" />
 </div>
   
