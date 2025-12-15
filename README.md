@@ -17,11 +17,25 @@
 
 ### 🚀 Currently Working On
 
-<div align="center">
-  <a href="https://github.com/swadhin-in">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=SuperX&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Next%20Gen%20Social%20and%20Dating%20App&descAlignY=60&descSize=25" alt="SuperX Banner"/>
-  </a>
-</div>
+<table border="0" align="center">
+  <tr>
+    <td width="160" align="center">
+      <a href="https://superx.blog/">
+        <img src="https://ui-avatars.com/api/?name=S+X&background=00f2ff&color=000&rounded=true&size=120&font-size=0.4&bold=true" alt="SuperX Icon">
+      </a>
+    </td>
+    <td>
+      <h3 align="left">SuperX App</h3>
+      <a href="https://superx.blog/">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=919191&width=400&lines=Social+cum+Dating+Platform;Automation-First+Approach;Connecting+People+Smartly" alt="Typing SVG" />
+      </a>
+      <br>
+      <a href="https://superx.blog/">
+        <img src="https://img.shields.io/badge/🌐_Visit_Website-superx.blog-0055ff?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010" alt="Visit Website Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Technical Arsenal
 
@@ -59,11 +73,7 @@
   <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
@@ -79,3 +89,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
