@@ -54,8 +54,29 @@
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swadhin-in&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
-
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swadhin-in&theme=dark" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swadhin-in&theme=dark" alt="Most Commit Language" />
+  </p><div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swadhin-in&theme=dark" alt="swadhin-in's GitHub contribution graph" />
+</div>
+  
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&color=blue&style=flat" alt="visitor badge"/>
 </div>
+
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/swadhin-ind" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://www.instagram.com/swadhin_india" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="mailto:swadhin0031@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
