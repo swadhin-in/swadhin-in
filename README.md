@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40&height=230&section=header&text=Swadhin%20Ghosh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20SuperX%20%F0%9F%9A%80&descAlignY=60&descSize=25" alt="Header Animation"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Building+Scalable+Apps;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Building+SuperX;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -58,10 +58,7 @@
   
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&color=blue&style=flat" alt="visitor badge"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=swadhin-in&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
 </div>
 
 <h3 align="center">🤝 Connect with me</h3>
