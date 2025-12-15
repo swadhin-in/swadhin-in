@@ -72,10 +72,8 @@
   <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
 </div>
 
-
-<div>
-  <h3 align="right">🤝 Connect with me</h3>
-<p align="right">
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/swadhin-ind" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -90,8 +88,10 @@
 </p>
 
 
+<div align="center">
+  
   <br/>
-  <h3 align="left">Liked my work? Fuel the SuperX journey! 🚀</h3>
+  <h3 align="center">Liked my work? Fuel the SuperX journey! 🚀</h3>
   
   <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
