@@ -69,7 +69,7 @@
   
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%50Views&style=for-the-badge&color=00f2ff&labelColor=1c1c1c" alt="visitor badge"/>
 </div>
 
 
