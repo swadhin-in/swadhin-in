@@ -1,7 +1,18 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40&height=230&section=header&text=Swadhin%20Ghosh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20SuperX%20%F0%9F%9A%80&descAlignY=60&descSize=25" alt="Header Animation"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40&height=230&section=header&text=Swadhin%20Ghosh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20SuperX%20%F0%9F%9A%80&descAlignY=60&descSize=25" alt="Header Animation" width="100%"/>
 
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@YOUR-CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Building+SuperX;Open+Source+Contributor" alt="Typing SVG" />
   </a>
