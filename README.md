@@ -6,8 +6,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Building+SuperX;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-
-  
+<p align="center">
+    <a href="https://github.com/swadhin-in">
+      <img src="https://img.shields.io/badge/Check_My_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Badge"/>
+    </a>
+  </p>
 
 </div>
 
@@ -17,7 +20,7 @@
   <tr>
     <td width="160" align="center">
       <a href="https://superx.blog/">
-        <img src="https://ui-avatars.com/api/?name=S+X&background=00f2ff&color=000&rounded=true&size=120&font-size=0.4&bold=true" alt="SuperX Icon">
+        <img src="superx-logo.png" alt="SuperX Icon">
       </a>
     </td>
     <td>
