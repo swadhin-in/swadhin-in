@@ -17,13 +17,9 @@
 ### 🚀 Currently Working On
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=SuperX&fontSize=50&fontColor=ffffff&fontAlign=50" alt="SuperX Banner"/>
-  <br/>
-  <p><b>SuperX</b> is a next-gen Social & Dating Application.</p>
+  <a href="https://github.com/swadhin-in"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,3,35,40&height=180&section=header&text=SuperX&fontSize=60&fontColor=ffffff&animation=typewriter&desc=Next-Gen%20Social%20%26%20Dating%20App%20%F0%9F%9A%80&descAlignY=65&descSize=22" alt="SuperX Animated Banner"/>
+  </a>
 </div>
-
----
 
 ### 🛠️ Technical Arsenal
 
