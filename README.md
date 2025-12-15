@@ -93,7 +93,7 @@
   
   <br/>
   
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="220" alt="Coffee Recharging" />
+  
 
   <h3>Liked my work? Fuel the SuperX journey! 🚀</h3>
   
