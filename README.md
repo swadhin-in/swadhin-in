@@ -1,5 +1,7 @@
 <div align="center">
   
+  <div align="center">
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Swadhin+Ghosh;Building+SuperX+%F0%9F%9A%80;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
   </a>
@@ -8,6 +10,12 @@
      Creating impactful digital experiences with Code & Coffee.
   </p>
 
+  <p align="center">
+    <a href="https://github.com/swadhin-in">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
   <p align="center">
     <a href="https://github.com/swadhin-in">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
