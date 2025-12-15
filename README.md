@@ -50,9 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=swadhin-in&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhin-in&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=swadhin-in&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swadhin-in&theme=dark" alt="Repos per Language" />
@@ -65,6 +62,9 @@
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=swadhin-in&label=Profile%20Views&color=blue&style=flat" alt="visitor badge"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=swadhin-in&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 <h3 align="center">🤝 Connect with me</h3>
