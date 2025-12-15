@@ -85,6 +85,9 @@
   <a href="mailto:swadhin0031@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://x.com/Swadhin_in" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 </p>
 
 
