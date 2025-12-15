@@ -89,15 +89,21 @@
   </a>
 </p>
 
-<td width="40%" align="center">
-      
-<img src="https://media.giphy.com/media/TDQXFezfGJhzp87FCE/giphy.gif" width="200" alt="Coffee Time">
-<br/>
-<a href="https://www.buymeacoffee.com/YOURUSERNAME">
-  <img src="https://img.shields.io/badge/Fuel%20my%20code-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+<div align="center">
+  
+  <br/>
+  
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="220" alt="Coffee Recharging" />
 
-</td>
+  <h3>Liked my work? Fuel the SuperX journey! 🚀</h3>
+  
+  <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+  
+  <p><i>Every cup helps me build more open-source tools & fix bugs!</i></p>
+
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
