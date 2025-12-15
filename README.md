@@ -20,7 +20,7 @@
   <tr>
     <td width="160" align="center">
       <a href="https://superx.blog/">
-        <img src="superx-logo.png" alt="SuperX Icon">
+        <img src="superx_logo.png" alt="SuperX Icon">
       </a>
     </td>
     <td>
