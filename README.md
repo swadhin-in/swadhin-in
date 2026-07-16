@@ -19,7 +19,7 @@
 <table border="0" align="center">
   <tr>
     <td width="160" align="center">
-      <a href="https://superx.blog/">
+      <a href="https://superxcorporation.in">
         <img src="superx_logo.png" alt="SuperX Icon">
       </a>
     </td>
@@ -29,8 +29,8 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=919191&width=400&lines=Social+cum+Dating+Platform;Automation-First+Approach;Connecting+People+Smartly" alt="Typing SVG" />
       </a>
       <br>
-      <a href="https://superx.blog/">
-        <img src="https://img.shields.io/badge/🌐_Visit_Website-superx.blog-0055ff?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010" alt="Visit Website Badge"/>
+      <a href="https://superxcorporation.in">
+        <img src="https://img.shields.io/badge/🌐_Visit_Website-superxcorporation.in-0055ff?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010" alt="Visit Website Badge"/>
       </a>
     </td>
   </tr>
@@ -94,7 +94,7 @@
 <div align="center">
   
   <br/>
-  <h3 align="center">Liked my work? Fuel the SuperX journey! 🚀</h3>
+  <h3 align="center">Liked my work? Fuel the Superx Corporation journey! 🚀</h3>
   
   <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
