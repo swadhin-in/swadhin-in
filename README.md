@@ -24,7 +24,7 @@
       </a>
     </td>
     <td>
-      <h3 align="left">SuperX App</h3>
+      <h3 align="left">Superx Corporation</h3>
       <a href="https://superx.blog/">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=919191&width=400&lines=Social+cum+Dating+Platform;Automation-First+Approach;Connecting+People+Smartly" alt="Typing SVG" />
       </a>
